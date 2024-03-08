@@ -1,0 +1,14 @@
+div.main{
+    background:url(background.png);
+    background: cover;
+    display:block;
+    text-align: center;
+  font-size:30px;
+  padding-top:50px;
+  padding-right:50px;
+  padding-left:50px;
+  padding-bottom:100px;
+  margin-left: auto;
+  margin-right:auto;
+
+ }
